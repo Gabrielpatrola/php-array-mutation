@@ -1,3 +1,5 @@
+<?php
+
 function solution($n, $a) {
     if ($n === 1){
         return $a;
